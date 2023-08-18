@@ -21,7 +21,7 @@ paste chrome://settings/help in chrome.
 - Multi-threading
 
 ## Preview
-![Picture](https://i.ibb.co/SvsPwrD/Screenshot-525.png)
+![Picture]()
 
 ## Usage
 1. You can customize usernames by editing the usernames in discord_usernames.txt.
